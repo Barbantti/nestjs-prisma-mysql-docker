@@ -1,1 +1,0 @@
-# nestjs-prisma-mysql-docker
